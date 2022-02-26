@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Paulo Dichone</string>
+    <string name="my_bio"> Hello, my name is Paulo Dichone, and I teach programming.
+        \n\nMy mission is to help 1 Million students reach their goal of becoming the best developers they can be.
+        I want to make you, a well-rounded developer.
+        I have extensive experience in Mobile App Development (Android and iOS) and Web Development.
+        I am also the founder of <u><i>Build Apps With Paulo</i></u>, where students are equipped with tools they need to become
+        well-rounded developers - developers who have soft and technical skills.
+        Showing students how to make amazing applications/software is a gratifying experience for me.
+        That\'s why I have been teaching online for the past 5 years.
+        My goal is to make you a great developer, no matter your experience.
+        I enjoy spending time with my growing family, playing the guitar, mandolin, and traveling in my spare time.
+        I look forward to helping you become the best developer you can be.
+        Thank you so much for being here.
+        It means the world to me!</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android robot image</string>
+    <string name="auto_fill_hints">classical guitar</string>
+</resources>
